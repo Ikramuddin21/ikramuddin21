@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Ikram Uddin, a Frontend Developer from Bangladesh. Visit Portfolio : https://ikram-portfolio-pj.netlify.app/
 
-## Skills
+ Skills
 - JavaScript
 - React Js
 - HTML
