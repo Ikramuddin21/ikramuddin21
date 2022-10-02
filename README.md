@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, welcome to my github profile 👋
 I'm Ikram Uddin, a Frontend Developer from Bangladesh. Visit Portfolio : https://ikram-portfolio-pj.netlify.app/
 
  ## Skills
