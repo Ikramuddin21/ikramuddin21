@@ -1,5 +1,5 @@
 ### Hello, welcome to my github profile 👋
-I'm Ikram Uddin, a Frontend Developer from Bangladesh. Visit Portfolio : https://ikram-portfolio-pj.netlify.app/
+I'm Ikram Uddin Akhand, a Software Engineer from Bangladesh.
 
  ## Skills
 - JavaScript
