@@ -8,7 +8,7 @@ I'm Ikram Uddin Akhand, a Software Engineer from Bangladesh.
 - TypeScript
 - HTML
 - CSS
-- ASP.Net Core
+- ASP.NET Core
 - SQL
 - PostgreSQL
 
